@@ -1,0 +1,6 @@
+projectKey=mkutano_backend
+serverUrl=http://sonar.it4innov.fr
+serverVersion=10.4.0.87286
+dashboardUrl=http://sonar.it4innov.fr/dashboard?id=mkutano_backend
+ceTaskId=1a35b82a-d5ab-49f8-8343-c40162317b59
+ceTaskUrl=http://sonar.it4innov.fr/api/ce/task?id=1a35b82a-d5ab-49f8-8343-c40162317b59

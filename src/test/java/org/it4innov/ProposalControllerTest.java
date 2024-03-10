@@ -9,10 +9,10 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.is;
 
 
-public class ProposalControllerTest {
+ class ProposalControllerTest {
 
     @Test
-    public void testHelloEndpoint() {
+    void testHelloEndpoint() {
   /*given()
           .when().get("/proposal")
           .then()
@@ -22,4 +22,15 @@ public class ProposalControllerTest {
         Assert.assertTrue(true);
     }
 
+
+    @Test
+    void testHelloEndpoint2() {
+  /*given()
+          .when().get("/proposal")
+          .then()
+             .statusCode(200);*/
+
+
+        Assert.assertTrue(true);
+    }
 }
